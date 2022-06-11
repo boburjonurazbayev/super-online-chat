@@ -1,9 +1,9 @@
 [
-    {
-        "userName": "Boburjon",
-        "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
-        "email": "ewr@gamil.com",
-        "avatar": "http://localhost:5000/view/1654982272363photo_2021-09-03_15-36-42.jpg",
-        "userId": 1
-    }
+  {
+    "userName": "Boburjon",
+    "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+    "email": "ewr@gamil.com",
+    "avatar": "https://super-online-chat.herokuapp.com/view/1654982272363photo_2021-09-03_15-36-42.jpg",
+    "userId": 1
+  }
 ]

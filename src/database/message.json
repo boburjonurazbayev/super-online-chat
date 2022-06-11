@@ -1,30 +1,30 @@
 [
-    {
-        "messageId": 1,
-        "message": "assalamu alaykum",
-        "date": "02 : 18",
-        "file": {},
-        "user": {
-            "userName": "Boburjon",
-            "email": "ewr@gamil.com",
-            "avatar": "http://localhost:5000/view/1654982272363photo_2021-09-03_15-36-42.jpg",
-            "userId": 1
-        }
-    },
-    {
-        "messageId": 2,
-        "message": "nima gaplar",
-        "date": "02 : 18",
-        "file": {
-            "view": "http://localhost:5000/view/1654982306340photo_2021-09-19_05-54-25.jpg",
-            "download": "http://localhost:5000/download/1654982306340photo_2021-09-19_05-54-25.jpg",
-            "name": "photo_2021-09-19_05-54-25.jpg"
-        },
-        "user": {
-            "userName": "Boburjon",
-            "email": "ewr@gamil.com",
-            "avatar": "http://localhost:5000/view/1654982272363photo_2021-09-03_15-36-42.jpg",
-            "userId": 1
-        }
+  {
+    "messageId": 1,
+    "message": "assalamu alaykum",
+    "date": "02 : 18",
+    "file": {},
+    "user": {
+      "userName": "Boburjon",
+      "email": "ewr@gamil.com",
+      "avatar": "https://super-online-chat.herokuapp.com/view/1654982272363photo_2021-09-03_15-36-42.jpg",
+      "userId": 1
     }
+  },
+  {
+    "messageId": 2,
+    "message": "nima gaplar",
+    "date": "02 : 18",
+    "file": {
+      "view": "https://super-online-chat.herokuapp.com/view/1654982306340photo_2021-09-19_05-54-25.jpg",
+      "download": "https://super-online-chat.herokuapp.com/download/1654982306340photo_2021-09-19_05-54-25.jpg",
+      "name": "photo_2021-09-19_05-54-25.jpg"
+    },
+    "user": {
+      "userName": "Boburjon",
+      "email": "ewr@gamil.com",
+      "avatar": "https://super-online-chat.herokuapp.com/view/1654982272363photo_2021-09-03_15-36-42.jpg",
+      "userId": 1
+    }
+  }
 ]
