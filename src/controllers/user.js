@@ -8,7 +8,7 @@ import sha256 from "sha256";
 import jwt from "../utils/jwt.js";
 import path from "path";
 
-const API = "http://localhost:5000";
+const API = "https://super-online-chat.herokuapp.com";
 
 const LOGIN = (req, res, next) => {
   try {
